@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Luintelayush
-- 👀 I’m interested in Web and app development
-- And currently working as graphics designer and content creator at mangobyte
-- 🌱 I’m currently learning C++ advance level
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me luintelayush@gmail.com
--  or fb.com/aayush.luintel
+- 👀 I’m interested in Web development and DevOps
+- And currently working as IT Officer at Lions International , District 325 S Nepal
+- 🌱 I’m currently learning Full Stack Development , MERN
+- 📫 How to reach me luintelayush@gmail.com/  aayushluintel.com.np
 
 <!---
 Luintelayush/Luintelayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
